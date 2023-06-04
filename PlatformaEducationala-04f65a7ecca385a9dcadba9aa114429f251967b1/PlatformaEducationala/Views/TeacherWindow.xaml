@@ -1,0 +1,199 @@
+﻿<Window x:Class="PlatformaEducationala.Views.TeacherWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:ctx="clr-namespace:PlatformaEducationala.ViewModels"
+        xmlns:convert="clr-namespace:PlatformaEducationala.Converters"
+        xmlns:local="clr-namespace:PlatformaEducationala.Views"
+        mc:Ignorable="d"
+        Title="TeacherWindow" Height="450" Width="800">
+    <Window.DataContext>
+        <ctx:TeacherWindowVM/>
+    </Window.DataContext>
+    <Window.Resources>
+        <!-- Button Style -->
+        <Style x:Key="ButtonStyle" TargetType="Button">
+            <Setter Property="Width" Value="100"/>
+            <Setter Property="Height" Value="30"/>
+            <Setter Property="Margin" Value="15"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="Background" Value="#003B73"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="BorderBrush" Value="Transparent"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="Padding" Value="5"/>
+            <Setter Property="HorizontalAlignment" Value="Left"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Background" Value="#FF002241"/>
+                </Trigger>
+                <Trigger Property="IsPressed" Value="True">
+                    <Setter Property="Background" Value="#106EBE"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+
+
+        <Style x:Key="DataGridStyle" TargetType="DataGrid">
+            <Setter Property="Background" Value="#F1F1F1" />
+            <Setter Property="BorderBrush" Value="#CCCCCC" />
+            <Setter Property="BorderThickness" Value="1" />
+            <Setter Property="RowBackground" Value="#FFFFFF" />
+            <Setter Property="GridLinesVisibility" Value="None" />
+            <Setter Property="FontSize" Value="12" />
+            <Setter Property="CanUserResizeColumns" Value="False" />
+            <Setter Property="AutoGenerateColumns" Value="False" />
+            <Setter Property="RowDetailsVisibilityMode" Value="VisibleWhenSelected" />
+            <Setter Property="CellStyle">
+                <Setter.Value>
+                    <Style TargetType="DataGridCell">
+                        <Setter Property="BorderBrush" Value="Transparent" />
+                        <Setter Property="BorderThickness" Value="0" />
+                        <Setter Property="Foreground" Value="#333333" />
+                        <Setter Property="Padding" Value="5" />
+                        <Setter Property="Template">
+                            <Setter.Value>
+                                <ControlTemplate TargetType="DataGridCell">
+                                    <Grid Background="{TemplateBinding Background}">
+                                        <ContentPresenter VerticalAlignment="Center" />
+                                    </Grid>
+                                </ControlTemplate>
+                            </Setter.Value>
+                        </Setter>
+                        <Style.Triggers>
+                            <Trigger Property="IsSelected" Value="True">
+                                <Setter Property="Background" Value="#FF99C8F7" />
+                                <Setter Property="Foreground" Value="Black" />
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Setter.Value>
+            </Setter>
+            <Setter Property="ColumnHeaderStyle">
+                <Setter.Value>
+                    <Style TargetType="DataGridColumnHeader">
+                        <Setter Property="Background" Value="#003B73" />
+                        <Setter Property="Foreground" Value="White" />
+                        <Setter Property="FontWeight" Value="Bold" />
+                        <Setter Property="HorizontalContentAlignment" Value="Left" />
+                        <Setter Property="VerticalContentAlignment" Value="Center" />
+                        <Setter Property="Padding" Value="10" />
+                    </Style>
+                </Setter.Value>
+            </Setter>
+            <Style.Triggers>
+                <Trigger Property="IsSelected" Value="True">
+                    <Setter Property="Background" Value="#FF002241" />
+                    <Setter Property="Foreground" Value="White" />
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+
+
+
+
+
+
+
+        <!-- Label Style -->
+        <Style x:Key="LabelStyle" TargetType="Label">
+            <Setter Property="Width" Value="150"/>
+            <Setter Property="FontSize" Value="15"/>
+            <Setter Property="Foreground" Value="#333333"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+        </Style>
+
+        <!-- ComboBox Style -->
+        <Style x:Key="ComboBoxStyle" TargetType="ComboBox">
+            <Setter Property="Width" Value="200"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="Foreground" Value="#333333"/>
+            <Setter Property="Padding" Value="5"/>
+            <Setter Property="Background" Value="#E5E5E5"/>
+            <Setter Property="BorderBrush" Value="#CCCCCC"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="SelectedValuePath" Value="Item2"/>
+            <Setter Property="ItemTemplate">
+                <Setter.Value>
+                    <DataTemplate>
+                        <TextBlock>
+                            <TextBlock.Text>
+                                <MultiBinding StringFormat="{}{0} -> {1}">
+                                    <Binding Path="Item1"/>
+                                    <Binding Path="Item2"/>
+                                </MultiBinding>
+                            </TextBlock.Text>
+                        </TextBlock>
+                    </DataTemplate>
+                </Setter.Value>
+            </Setter>
+
+        </Style>
+
+        <!-- DatePicker Style -->
+
+        <Style x:Key="DatePickerStyle" TargetType="DatePicker">
+            <Setter Property="Width" Value="200"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="Foreground" Value="#333333"/>
+            <Setter Property="Padding" Value="5"/>
+            <Setter Property="Background" Value="#E5E5E5"/>
+            <Setter Property="BorderBrush" Value="#CCCCCC"/>
+            <Setter Property="BorderThickness" Value="1"/>
+        </Style>
+
+        <!-- CheckBox Style -->
+        <Style x:Key="CheckBoxStyle" TargetType="CheckBox">
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="Foreground" Value="#333333"/>
+        </Style>
+    </Window.Resources>
+    <DockPanel >
+        <!--<Menu DockPanel.Dock="Top"  FontSize="15" FontWeight="Bold" Width="455">
+            <Menu.Background>
+                <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                    <GradientStop Color="#FFCA4D11" Offset="0.528"/>
+                    <GradientStop Color="#FFF7641E" Offset="0.01"/>
+                    <GradientStop Color="#FFF57537" Offset="1"/>
+                    <GradientStop Color="#FFA93F0C" Offset="1"/>
+                </LinearGradientBrush>
+            </Menu.Background>
+            <MenuItem Header="Teacher">
+                <MenuItem.Icon>
+                    <Image Source="/Images/Teacher.jpg" Width="20" Height="20"/>
+                </MenuItem.Icon>
+                <MenuItem Header="Absente" Click="TeacheriAbsenteMenuItem_Click"/>
+                <MenuItem Header="Note" Click="TeacheriNoteMenuItem_Click"/>
+                <MenuItem Header="Material Didactic" Click="TeacheriMaterialeMenuItem_Click"/>
+                <MenuItem Header="Medii" Click="TeacheriMediiMenuItem_Click"/>
+            </MenuItem>
+        </Menu>-->
+        
+        <WrapPanel >
+            <WrapPanel.Background>
+                <SolidColorBrush Color="#B1D4E0"/>
+            </WrapPanel.Background>
+            <WrapPanel Margin="200,50,0,0">
+                <Label Width="150">Nume + Id Teacher:</Label>
+                <ComboBox x:Name="TeacheriCB" Width="200" Style="{StaticResource ComboBoxStyle}" ItemsSource="{Binding Teacheri}" SelectionChanged="TeacheriCB_SelectionChanged"/>
+            </WrapPanel>
+            <WrapPanel Margin="40,5,0,0" Height="27" RenderTransformOrigin="-0.629,0.035"/>
+
+            <StackPanel Orientation="Horizontal" Width="619" Margin="140,50,0,0">
+                <Button Style="{StaticResource ButtonStyle}" Content="Absences" Click="TeacheriAbsenteMenuItem_Click"/>
+                <Button Style="{StaticResource ButtonStyle}" Content="Grades" Click="TeacheriNoteMenuItem_Click"/>
+                <Button Style="{StaticResource ButtonStyle}" Content="Material Didactic" Click="TeacheriMaterialeMenuItem_Click" Width="125"/>
+                <Button Style="{StaticResource ButtonStyle}" Content="Averages" Click="TeacheriMediiMenuItem_Click"/>
+            </StackPanel>
+
+        </WrapPanel>
+        
+        
+    </DockPanel>
+</Window>
+

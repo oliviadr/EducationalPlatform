@@ -1,0 +1,141 @@
+C:\Users\drago\source\repos\PlatformaEducationala\PlatformaEducationala\bin\Debug\PlatformaEducationala.exe.config
+C:\Users\drago\source\repos\PlatformaEducationala\PlatformaEducationala\bin\Debug\PlatformaEducationala.exe
+C:\Users\drago\source\repos\PlatformaEducationala\PlatformaEducationala\bin\Debug\PlatformaEducationala.pdb
+C:\Users\drago\source\repos\PlatformaEducationala\PlatformaEducationala\obj\Debug\PlatformaEducationala.csproj.AssemblyReference.cache
+C:\Users\drago\source\repos\PlatformaEducationala\PlatformaEducationala\obj\Debug\PlatformaEducationala.csproj.SuggestedBindingRedirects.cache
+C:\Users\drago\source\repos\PlatformaEducationala\PlatformaEducationala\obj\Debug\Views\MainWindow.g.cs
+C:\Users\drago\source\repos\PlatformaEducationala\PlatformaEducationala\obj\Debug\App.g.cs
+C:\Users\drago\source\repos\PlatformaEducationala\PlatformaEducationala\obj\Debug\PlatformaEducationala_MarkupCompile.cache
+C:\Users\drago\source\repos\PlatformaEducationala\PlatformaEducationala\obj\Debug\Views\MainWindow.baml
+C:\Users\drago\source\repos\PlatformaEducationala\PlatformaEducationala\obj\Debug\PlatformaEducationala.g.resources
+C:\Users\drago\source\repos\PlatformaEducationala\PlatformaEducationala\obj\Debug\PlatformaEducationala.Properties.Resources.resources
+C:\Users\drago\source\repos\PlatformaEducationala\PlatformaEducationala\obj\Debug\PlatformaEducationala.csproj.GenerateResource.cache
+C:\Users\drago\source\repos\PlatformaEducationala\PlatformaEducationala\obj\Debug\PlatformaEducationala.csproj.CoreCompileInputs.cache
+C:\Users\drago\source\repos\PlatformaEducationala\PlatformaEducationala\obj\Debug\PlatformaEducationala.exe
+C:\Users\drago\source\repos\PlatformaEducationala\PlatformaEducationala\obj\Debug\PlatformaEducationala.pdb
+C:\Users\drago\source\repos\PlatformaEducationala\PlatformaEducationala\obj\Debug\Views\Specializari.g.cs
+C:\Users\drago\source\repos\PlatformaEducationala\PlatformaEducationala\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\drago\source\repos\PlatformaEducationala\PlatformaEducationala\obj\Debug\PlatformaEducationala_MarkupCompile.lref
+C:\Users\drago\source\repos\PlatformaEducationala\PlatformaEducationala\obj\Debug\Views\Specializari.baml
+C:\Users\drago\source\repos\PlatformaEducationala\PlatformaEducationala\obj\Debug\Views\Profesori.g.cs
+C:\Users\drago\source\repos\PlatformaEducationala\PlatformaEducationala\bin\Debug\AttachedCommandBehavior.dll
+C:\Users\drago\source\repos\PlatformaEducationala\PlatformaEducationala\obj\Debug\Views\Profesori.baml
+C:\Users\drago\source\repos\PlatformaEducationala\PlatformaEducationala\obj\Debug\PlatformaEducationala.csproj.CopyComplete
+D:\Facultate\Anul II\Semestrul II\Medii vizuale de programare\Laboratoare\Tema3\PlatformaEducationala\PlatformaEducationala\bin\Debug\PlatformaEducationala.exe.config
+D:\Facultate\Anul II\Semestrul II\Medii vizuale de programare\Laboratoare\Tema3\PlatformaEducationala\PlatformaEducationala\bin\Debug\PlatformaEducationala.exe
+D:\Facultate\Anul II\Semestrul II\Medii vizuale de programare\Laboratoare\Tema3\PlatformaEducationala\PlatformaEducationala\bin\Debug\PlatformaEducationala.pdb
+D:\Facultate\Anul II\Semestrul II\Medii vizuale de programare\Laboratoare\Tema3\PlatformaEducationala\PlatformaEducationala\bin\Debug\AttachedCommandBehavior.dll
+D:\Facultate\Anul II\Semestrul II\Medii vizuale de programare\Laboratoare\Tema3\PlatformaEducationala\PlatformaEducationala\obj\Debug\PlatformaEducationala.csproj.AssemblyReference.cache
+D:\Facultate\Anul II\Semestrul II\Medii vizuale de programare\Laboratoare\Tema3\PlatformaEducationala\PlatformaEducationala\obj\Debug\PlatformaEducationala.csproj.SuggestedBindingRedirects.cache
+D:\Facultate\Anul II\Semestrul II\Medii vizuale de programare\Laboratoare\Tema3\PlatformaEducationala\PlatformaEducationala\obj\Debug\Views\MainWindow.baml
+D:\Facultate\Anul II\Semestrul II\Medii vizuale de programare\Laboratoare\Tema3\PlatformaEducationala\PlatformaEducationala\obj\Debug\Views\MainWindow.g.cs
+D:\Facultate\Anul II\Semestrul II\Medii vizuale de programare\Laboratoare\Tema3\PlatformaEducationala\PlatformaEducationala\obj\Debug\Views\Materii.g.cs
+D:\Facultate\Anul II\Semestrul II\Medii vizuale de programare\Laboratoare\Tema3\PlatformaEducationala\PlatformaEducationala\obj\Debug\Views\Profesori.g.cs
+D:\Facultate\Anul II\Semestrul II\Medii vizuale de programare\Laboratoare\Tema3\PlatformaEducationala\PlatformaEducationala\obj\Debug\Views\Specializari.g.cs
+D:\Facultate\Anul II\Semestrul II\Medii vizuale de programare\Laboratoare\Tema3\PlatformaEducationala\PlatformaEducationala\obj\Debug\App.g.cs
+D:\Facultate\Anul II\Semestrul II\Medii vizuale de programare\Laboratoare\Tema3\PlatformaEducationala\PlatformaEducationala\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Facultate\Anul II\Semestrul II\Medii vizuale de programare\Laboratoare\Tema3\PlatformaEducationala\PlatformaEducationala\obj\Debug\PlatformaEducationala_MarkupCompile.cache
+D:\Facultate\Anul II\Semestrul II\Medii vizuale de programare\Laboratoare\Tema3\PlatformaEducationala\PlatformaEducationala\obj\Debug\PlatformaEducationala_MarkupCompile.lref
+D:\Facultate\Anul II\Semestrul II\Medii vizuale de programare\Laboratoare\Tema3\PlatformaEducationala\PlatformaEducationala\obj\Debug\Views\Profesori.baml
+D:\Facultate\Anul II\Semestrul II\Medii vizuale de programare\Laboratoare\Tema3\PlatformaEducationala\PlatformaEducationala\obj\Debug\Views\Specializari.baml
+D:\Facultate\Anul II\Semestrul II\Medii vizuale de programare\Laboratoare\Tema3\PlatformaEducationala\PlatformaEducationala\obj\Debug\Views\Materii.baml
+D:\Facultate\Anul II\Semestrul II\Medii vizuale de programare\Laboratoare\Tema3\PlatformaEducationala\PlatformaEducationala\obj\Debug\PlatformaEducationala.g.resources
+D:\Facultate\Anul II\Semestrul II\Medii vizuale de programare\Laboratoare\Tema3\PlatformaEducationala\PlatformaEducationala\obj\Debug\PlatformaEducationala.Properties.Resources.resources
+D:\Facultate\Anul II\Semestrul II\Medii vizuale de programare\Laboratoare\Tema3\PlatformaEducationala\PlatformaEducationala\obj\Debug\PlatformaEducationala.csproj.GenerateResource.cache
+D:\Facultate\Anul II\Semestrul II\Medii vizuale de programare\Laboratoare\Tema3\PlatformaEducationala\PlatformaEducationala\obj\Debug\PlatformaEducationala.csproj.CoreCompileInputs.cache
+D:\Facultate\Anul II\Semestrul II\Medii vizuale de programare\Laboratoare\Tema3\PlatformaEducationala\PlatformaEducationala\obj\Debug\PlatformaEducationala.csproj.CopyComplete
+D:\Facultate\Anul II\Semestrul II\Medii vizuale de programare\Laboratoare\Tema3\PlatformaEducationala\PlatformaEducationala\obj\Debug\PlatformaEducationala.exe
+D:\Facultate\Anul II\Semestrul II\Medii vizuale de programare\Laboratoare\Tema3\PlatformaEducationala\PlatformaEducationala\obj\Debug\PlatformaEducationala.pdb
+D:\Facultate\Anul II\Semestrul II\Medii vizuale de programare\Laboratoare\Tema3\PlatformaEducationala\PlatformaEducationala\obj\Debug\Views\Clase.g.cs
+D:\Facultate\Anul II\Semestrul II\Medii vizuale de programare\Laboratoare\Tema3\PlatformaEducationala\PlatformaEducationala\obj\Debug\Views\Clase.baml
+D:\Facultate\Anul II\Semestrul II\Medii vizuale de programare\Laboratoare\Tema3\PlatformaEducationala\PlatformaEducationala\obj\Debug\Views\Elevi.g.cs
+D:\Facultate\Anul II\Semestrul II\Medii vizuale de programare\Laboratoare\Tema3\PlatformaEducationala\PlatformaEducationala\obj\Debug\Views\Elevi.baml
+D:\Facultate\Anul II\Semestrul II\Medii vizuale de programare\Laboratoare\Tema3\PlatformaEducationala\PlatformaEducationala\obj\Debug\Views\Absente.g.cs
+D:\Facultate\Anul II\Semestrul II\Medii vizuale de programare\Laboratoare\Tema3\PlatformaEducationala\PlatformaEducationala\obj\Debug\Views\Absente.baml
+D:\Facultate\Anul II\Semestrul II\Medii vizuale de programare\Laboratoare\Tema3\PlatformaEducationala\PlatformaEducationala\obj\Debug\Views\Note.g.cs
+D:\Facultate\Anul II\Semestrul II\Medii vizuale de programare\Laboratoare\Tema3\PlatformaEducationala\PlatformaEducationala\obj\Debug\Views\Note.baml
+D:\Facultate\Anul II\Semestrul II\Medii vizuale de programare\Laboratoare\Tema3\PlatformaEducationala\PlatformaEducationala\obj\Debug\Views\Medii.g.cs
+D:\Facultate\Anul II\Semestrul II\Medii vizuale de programare\Laboratoare\Tema3\PlatformaEducationala\PlatformaEducationala\obj\Debug\Views\Medii.baml
+D:\Facultate\Anul II\Semestrul II\Medii vizuale de programare\Laboratoare\Tema3\PlatformaEducationala\PlatformaEducationala\obj\Debug\Views\Materiale.g.cs
+D:\Facultate\Anul II\Semestrul II\Medii vizuale de programare\Laboratoare\Tema3\PlatformaEducationala\PlatformaEducationala\obj\Debug\Views\Materiale.baml
+D:\Facultate\Anul II\Semestrul II\Medii vizuale de programare\Laboratoare\Tema3\PlatformaEducationala\PlatformaEducationala\obj\Debug\Views\ElevAnStudiuSpecializare.g.cs
+D:\Facultate\Anul II\Semestrul II\Medii vizuale de programare\Laboratoare\Tema3\PlatformaEducationala\PlatformaEducationala\obj\Debug\Views\ElevAnStudiuSpecializare.baml
+D:\Facultate\Anul II\Semestrul II\Medii vizuale de programare\Laboratoare\Tema3\PlatformaEducationala\PlatformaEducationala\obj\Debug\Views\ProfesoriAbsente.g.cs
+D:\Facultate\Anul II\Semestrul II\Medii vizuale de programare\Laboratoare\Tema3\PlatformaEducationala\PlatformaEducationala\obj\Debug\Views\ProfesoriAbsente.baml
+D:\Facultate\Anul II\Semestrul II\Medii vizuale de programare\Laboratoare\Tema3\PlatformaEducationala\PlatformaEducationala\obj\Debug\Views\ProfesoriNote.g.cs
+D:\Facultate\Anul II\Semestrul II\Medii vizuale de programare\Laboratoare\Tema3\PlatformaEducationala\PlatformaEducationala\obj\Debug\Views\ProfesoriNote.baml
+D:\Facultate\Anul II\Semestrul II\Medii vizuale de programare\Laboratoare\Tema3\PlatformaEducationala\PlatformaEducationala\obj\Debug\Views\ProfesoriMateriale.g.cs
+D:\Facultate\Anul II\Semestrul II\Medii vizuale de programare\Laboratoare\Tema3\PlatformaEducationala\PlatformaEducationala\obj\Debug\Views\ProfesoriMateriale.baml
+D:\Facultate\Anul II\Semestrul II\Medii vizuale de programare\Laboratoare\Tema3\PlatformaEducationala\PlatformaEducationala\obj\Debug\Views\ProfesoriMedii.g.cs
+D:\Facultate\Anul II\Semestrul II\Medii vizuale de programare\Laboratoare\Tema3\PlatformaEducationala\PlatformaEducationala\obj\Debug\Views\ProfesoriMedii.baml
+D:\Facultate\Anul II\Semestrul II\Medii vizuale de programare\Laboratoare\Tema3\PlatformaEducationala\PlatformaEducationala\obj\Debug\Views\EleviMateriale.g.cs
+D:\Facultate\Anul II\Semestrul II\Medii vizuale de programare\Laboratoare\Tema3\PlatformaEducationala\PlatformaEducationala\obj\Debug\Views\EleviMateriale.baml
+D:\Facultate\Anul II\Semestrul II\Medii vizuale de programare\Laboratoare\Tema3\PlatformaEducationala\PlatformaEducationala\obj\Debug\Views\EleviNote.g.cs
+D:\Facultate\Anul II\Semestrul II\Medii vizuale de programare\Laboratoare\Tema3\PlatformaEducationala\PlatformaEducationala\obj\Debug\Views\EleviNote.baml
+D:\Facultate\Anul II\Semestrul II\Medii vizuale de programare\Laboratoare\Tema3\PlatformaEducationala\PlatformaEducationala\obj\Debug\Views\EleviAbsente.g.cs
+D:\Facultate\Anul II\Semestrul II\Medii vizuale de programare\Laboratoare\Tema3\PlatformaEducationala\PlatformaEducationala\obj\Debug\Views\EleviAbsente.baml
+D:\Facultate\Anul II\Semestrul II\Medii vizuale de programare\Laboratoare\Tema3\PlatformaEducationala\PlatformaEducationala\obj\Debug\Views\EleviMedii.g.cs
+D:\Facultate\Anul II\Semestrul II\Medii vizuale de programare\Laboratoare\Tema3\PlatformaEducationala\PlatformaEducationala\obj\Debug\Views\EleviMedii.baml
+C:\Users\olivia\OneDrive\Desktop\masina\PlatformaEducationala-04f65a7ecca385a9dcadba9aa114429f251967b1\PlatformaEducationala\bin\Debug\PlatformaEducationala.exe.config
+C:\Users\olivia\OneDrive\Desktop\masina\PlatformaEducationala-04f65a7ecca385a9dcadba9aa114429f251967b1\PlatformaEducationala\bin\Debug\PlatformaEducationala.exe
+C:\Users\olivia\OneDrive\Desktop\masina\PlatformaEducationala-04f65a7ecca385a9dcadba9aa114429f251967b1\PlatformaEducationala\bin\Debug\PlatformaEducationala.pdb
+C:\Users\olivia\OneDrive\Desktop\masina\PlatformaEducationala-04f65a7ecca385a9dcadba9aa114429f251967b1\PlatformaEducationala\bin\Debug\AttachedCommandBehavior.dll
+C:\Users\olivia\OneDrive\Desktop\masina\PlatformaEducationala-04f65a7ecca385a9dcadba9aa114429f251967b1\PlatformaEducationala\obj\Debug\PlatformaEducationala.csproj.AssemblyReference.cache
+C:\Users\olivia\OneDrive\Desktop\masina\PlatformaEducationala-04f65a7ecca385a9dcadba9aa114429f251967b1\PlatformaEducationala\obj\Debug\PlatformaEducationala.csproj.SuggestedBindingRedirects.cache
+C:\Users\olivia\OneDrive\Desktop\masina\PlatformaEducationala-04f65a7ecca385a9dcadba9aa114429f251967b1\PlatformaEducationala\obj\Debug\Views\Absente.g.cs
+C:\Users\olivia\OneDrive\Desktop\masina\PlatformaEducationala-04f65a7ecca385a9dcadba9aa114429f251967b1\PlatformaEducationala\obj\Debug\Views\Clase.g.cs
+C:\Users\olivia\OneDrive\Desktop\masina\PlatformaEducationala-04f65a7ecca385a9dcadba9aa114429f251967b1\PlatformaEducationala\obj\Debug\Views\Elevi.g.cs
+C:\Users\olivia\OneDrive\Desktop\masina\PlatformaEducationala-04f65a7ecca385a9dcadba9aa114429f251967b1\PlatformaEducationala\obj\Debug\Views\EleviAbsente.g.cs
+C:\Users\olivia\OneDrive\Desktop\masina\PlatformaEducationala-04f65a7ecca385a9dcadba9aa114429f251967b1\PlatformaEducationala\obj\Debug\Views\EleviMateriale.g.cs
+C:\Users\olivia\OneDrive\Desktop\masina\PlatformaEducationala-04f65a7ecca385a9dcadba9aa114429f251967b1\PlatformaEducationala\obj\Debug\Views\EleviMedii.g.cs
+C:\Users\olivia\OneDrive\Desktop\masina\PlatformaEducationala-04f65a7ecca385a9dcadba9aa114429f251967b1\PlatformaEducationala\obj\Debug\Views\EleviNote.g.cs
+C:\Users\olivia\OneDrive\Desktop\masina\PlatformaEducationala-04f65a7ecca385a9dcadba9aa114429f251967b1\PlatformaEducationala\obj\Debug\Views\MainWindow.g.cs
+C:\Users\olivia\OneDrive\Desktop\masina\PlatformaEducationala-04f65a7ecca385a9dcadba9aa114429f251967b1\PlatformaEducationala\obj\Debug\Views\Materiale.g.cs
+C:\Users\olivia\OneDrive\Desktop\masina\PlatformaEducationala-04f65a7ecca385a9dcadba9aa114429f251967b1\PlatformaEducationala\obj\Debug\Views\Materii.g.cs
+C:\Users\olivia\OneDrive\Desktop\masina\PlatformaEducationala-04f65a7ecca385a9dcadba9aa114429f251967b1\PlatformaEducationala\obj\Debug\Views\Medii.g.cs
+C:\Users\olivia\OneDrive\Desktop\masina\PlatformaEducationala-04f65a7ecca385a9dcadba9aa114429f251967b1\PlatformaEducationala\obj\Debug\Views\Note.g.cs
+C:\Users\olivia\OneDrive\Desktop\masina\PlatformaEducationala-04f65a7ecca385a9dcadba9aa114429f251967b1\PlatformaEducationala\obj\Debug\Views\Profesori.g.cs
+C:\Users\olivia\OneDrive\Desktop\masina\PlatformaEducationala-04f65a7ecca385a9dcadba9aa114429f251967b1\PlatformaEducationala\obj\Debug\Views\ProfesoriAbsente.g.cs
+C:\Users\olivia\OneDrive\Desktop\masina\PlatformaEducationala-04f65a7ecca385a9dcadba9aa114429f251967b1\PlatformaEducationala\obj\Debug\Views\ProfesoriMateriale.g.cs
+C:\Users\olivia\OneDrive\Desktop\masina\PlatformaEducationala-04f65a7ecca385a9dcadba9aa114429f251967b1\PlatformaEducationala\obj\Debug\Views\ProfesoriMedii.g.cs
+C:\Users\olivia\OneDrive\Desktop\masina\PlatformaEducationala-04f65a7ecca385a9dcadba9aa114429f251967b1\PlatformaEducationala\obj\Debug\Views\ProfesoriNote.g.cs
+C:\Users\olivia\OneDrive\Desktop\masina\PlatformaEducationala-04f65a7ecca385a9dcadba9aa114429f251967b1\PlatformaEducationala\obj\Debug\Views\Specializari.g.cs
+C:\Users\olivia\OneDrive\Desktop\masina\PlatformaEducationala-04f65a7ecca385a9dcadba9aa114429f251967b1\PlatformaEducationala\obj\Debug\App.g.cs
+C:\Users\olivia\OneDrive\Desktop\masina\PlatformaEducationala-04f65a7ecca385a9dcadba9aa114429f251967b1\PlatformaEducationala\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\olivia\OneDrive\Desktop\masina\PlatformaEducationala-04f65a7ecca385a9dcadba9aa114429f251967b1\PlatformaEducationala\obj\Debug\PlatformaEducationala_MarkupCompile.cache
+C:\Users\olivia\OneDrive\Desktop\masina\PlatformaEducationala-04f65a7ecca385a9dcadba9aa114429f251967b1\PlatformaEducationala\obj\Debug\PlatformaEducationala_MarkupCompile.lref
+C:\Users\olivia\OneDrive\Desktop\masina\PlatformaEducationala-04f65a7ecca385a9dcadba9aa114429f251967b1\PlatformaEducationala\obj\Debug\Views\Absente.baml
+C:\Users\olivia\OneDrive\Desktop\masina\PlatformaEducationala-04f65a7ecca385a9dcadba9aa114429f251967b1\PlatformaEducationala\obj\Debug\Views\Clase.baml
+C:\Users\olivia\OneDrive\Desktop\masina\PlatformaEducationala-04f65a7ecca385a9dcadba9aa114429f251967b1\PlatformaEducationala\obj\Debug\Views\Elevi.baml
+C:\Users\olivia\OneDrive\Desktop\masina\PlatformaEducationala-04f65a7ecca385a9dcadba9aa114429f251967b1\PlatformaEducationala\obj\Debug\Views\EleviAbsente.baml
+C:\Users\olivia\OneDrive\Desktop\masina\PlatformaEducationala-04f65a7ecca385a9dcadba9aa114429f251967b1\PlatformaEducationala\obj\Debug\Views\EleviMateriale.baml
+C:\Users\olivia\OneDrive\Desktop\masina\PlatformaEducationala-04f65a7ecca385a9dcadba9aa114429f251967b1\PlatformaEducationala\obj\Debug\Views\EleviMedii.baml
+C:\Users\olivia\OneDrive\Desktop\masina\PlatformaEducationala-04f65a7ecca385a9dcadba9aa114429f251967b1\PlatformaEducationala\obj\Debug\Views\EleviNote.baml
+C:\Users\olivia\OneDrive\Desktop\masina\PlatformaEducationala-04f65a7ecca385a9dcadba9aa114429f251967b1\PlatformaEducationala\obj\Debug\Views\MainWindow.baml
+C:\Users\olivia\OneDrive\Desktop\masina\PlatformaEducationala-04f65a7ecca385a9dcadba9aa114429f251967b1\PlatformaEducationala\obj\Debug\Views\Materiale.baml
+C:\Users\olivia\OneDrive\Desktop\masina\PlatformaEducationala-04f65a7ecca385a9dcadba9aa114429f251967b1\PlatformaEducationala\obj\Debug\Views\Materii.baml
+C:\Users\olivia\OneDrive\Desktop\masina\PlatformaEducationala-04f65a7ecca385a9dcadba9aa114429f251967b1\PlatformaEducationala\obj\Debug\Views\Medii.baml
+C:\Users\olivia\OneDrive\Desktop\masina\PlatformaEducationala-04f65a7ecca385a9dcadba9aa114429f251967b1\PlatformaEducationala\obj\Debug\Views\Note.baml
+C:\Users\olivia\OneDrive\Desktop\masina\PlatformaEducationala-04f65a7ecca385a9dcadba9aa114429f251967b1\PlatformaEducationala\obj\Debug\Views\Profesori.baml
+C:\Users\olivia\OneDrive\Desktop\masina\PlatformaEducationala-04f65a7ecca385a9dcadba9aa114429f251967b1\PlatformaEducationala\obj\Debug\Views\ProfesoriAbsente.baml
+C:\Users\olivia\OneDrive\Desktop\masina\PlatformaEducationala-04f65a7ecca385a9dcadba9aa114429f251967b1\PlatformaEducationala\obj\Debug\Views\ProfesoriMateriale.baml
+C:\Users\olivia\OneDrive\Desktop\masina\PlatformaEducationala-04f65a7ecca385a9dcadba9aa114429f251967b1\PlatformaEducationala\obj\Debug\Views\ProfesoriMedii.baml
+C:\Users\olivia\OneDrive\Desktop\masina\PlatformaEducationala-04f65a7ecca385a9dcadba9aa114429f251967b1\PlatformaEducationala\obj\Debug\Views\ProfesoriNote.baml
+C:\Users\olivia\OneDrive\Desktop\masina\PlatformaEducationala-04f65a7ecca385a9dcadba9aa114429f251967b1\PlatformaEducationala\obj\Debug\Views\Specializari.baml
+C:\Users\olivia\OneDrive\Desktop\masina\PlatformaEducationala-04f65a7ecca385a9dcadba9aa114429f251967b1\PlatformaEducationala\obj\Debug\PlatformaEducationala.g.resources
+C:\Users\olivia\OneDrive\Desktop\masina\PlatformaEducationala-04f65a7ecca385a9dcadba9aa114429f251967b1\PlatformaEducationala\obj\Debug\PlatformaEducationala.Properties.Resources.resources
+C:\Users\olivia\OneDrive\Desktop\masina\PlatformaEducationala-04f65a7ecca385a9dcadba9aa114429f251967b1\PlatformaEducationala\obj\Debug\PlatformaEducationala.csproj.GenerateResource.cache
+C:\Users\olivia\OneDrive\Desktop\masina\PlatformaEducationala-04f65a7ecca385a9dcadba9aa114429f251967b1\PlatformaEducationala\obj\Debug\PlatformaEducationala.csproj.CoreCompileInputs.cache
+C:\Users\olivia\OneDrive\Desktop\masina\PlatformaEducationala-04f65a7ecca385a9dcadba9aa114429f251967b1\PlatformaEducationala\obj\Debug\PlatformaEducationala.csproj.CopyComplete
+C:\Users\olivia\OneDrive\Desktop\masina\PlatformaEducationala-04f65a7ecca385a9dcadba9aa114429f251967b1\PlatformaEducationala\obj\Debug\PlatformaEducationala.exe
+C:\Users\olivia\OneDrive\Desktop\masina\PlatformaEducationala-04f65a7ecca385a9dcadba9aa114429f251967b1\PlatformaEducationala\obj\Debug\PlatformaEducationala.pdb
+C:\Users\olivia\OneDrive\Desktop\masina\PlatformaEducationala-04f65a7ecca385a9dcadba9aa114429f251967b1\PlatformaEducationala\obj\Debug\Views\Administrator.g.cs
+C:\Users\olivia\OneDrive\Desktop\masina\PlatformaEducationala-04f65a7ecca385a9dcadba9aa114429f251967b1\PlatformaEducationala\obj\Debug\Views\Diriginte.g.cs
+C:\Users\olivia\OneDrive\Desktop\masina\PlatformaEducationala-04f65a7ecca385a9dcadba9aa114429f251967b1\PlatformaEducationala\obj\Debug\Views\Administrator.baml
+C:\Users\olivia\OneDrive\Desktop\masina\PlatformaEducationala-04f65a7ecca385a9dcadba9aa114429f251967b1\PlatformaEducationala\obj\Debug\Views\Diriginte.baml
+C:\Users\olivia\OneDrive\Desktop\masina\PlatformaEducationala-04f65a7ecca385a9dcadba9aa114429f251967b1\PlatformaEducationala\obj\Debug\Views\TeacherWindow.g.cs
+C:\Users\olivia\OneDrive\Desktop\masina\PlatformaEducationala-04f65a7ecca385a9dcadba9aa114429f251967b1\PlatformaEducationala\obj\Debug\Views\TeacherWindow.baml
+C:\Users\olivia\OneDrive\Desktop\masina\PlatformaEducationala-04f65a7ecca385a9dcadba9aa114429f251967b1\PlatformaEducationala\obj\Debug\Views\StudentWindow.g.cs
+C:\Users\olivia\OneDrive\Desktop\masina\PlatformaEducationala-04f65a7ecca385a9dcadba9aa114429f251967b1\PlatformaEducationala\obj\Debug\Views\StudentWindow.baml
+C:\Users\olivia\OneDrive\Desktop\masina\PlatformaEducationala-04f65a7ecca385a9dcadba9aa114429f251967b1\PlatformaEducationala\obj\Debug\Views\StudentAnStudiuSpecializare.g.cs
+C:\Users\olivia\OneDrive\Desktop\masina\PlatformaEducationala-04f65a7ecca385a9dcadba9aa114429f251967b1\PlatformaEducationala\obj\Debug\Views\StudentAnStudiuSpecializare.baml
